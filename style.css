@@ -1,0 +1,40 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange-color {
+    color: blueviolet;
+}
+
+.mat-black {
+    color: rgb(20, 20, 20);
+}
+
+.section-1 {
+    display: flex;
+    margin: 100px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(31, 0, 167), rgb(9, 46, 255));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 40px;
+
+}
